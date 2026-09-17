@@ -1,0 +1,56 @@
+text,label
+"Urgent: Your account has been suspended. Click here to verify your password immediately or your account will be permanently deleted. Visit http://suspicious-login.example/verify now.",1
+"Your PayPal account has been limited. Please confirm your identity by clicking the link below. Failure to verify within 24 hours will result in permanent suspension. http://paypal-secure-verify.net/login",1
+"ALERT: Unusual sign-in activity detected on your Microsoft account. Someone in Russia attempted to access your account. Verify your identity now: http://microsoftsecurity-alert.com/verify",1
+"Congratulations! You have been selected as a winner. Claim your $1000 reward now. Click here: http://prize-winner-claim.xyz/reward?user=12345",1
+"Your bank account requires immediate verification. Security alert: unauthorized transaction detected. Login now to secure your account: http://bankofamerica-secure.ru/login",1
+"FINAL NOTICE: Your email storage is full. Your account will be deactivated unless you click here to upgrade immediately: http://email-upgrade-now.com/verify",1
+"Reset your password immediately. We detected suspicious activity. Your account will be locked in 2 hours. Click: http://accounts-google-reset.xyz/password-reset",1
+"Dear Customer, Your credit card has been charged $499. If you did not authorize this transaction, click here immediately: http://refund-claim.net/dispute",1
+"Security Alert: Your account password was changed from an unrecognized device. If this was not you, verify here: http://facebook-security-check.info/verify",1
+"WIN FREE iPhone 15! You have been chosen for our exclusive giveaway. Confirm your shipping address: http://free-iphone-giveaway.xyz/claim",1
+"Your Netflix subscription has expired. Update your payment details to continue enjoying Netflix: http://netflix-billing-update.xyz/payment",1
+"URGENT: IRS Tax Refund Notification. You are eligible for a $3,200 tax refund. Submit your details here: http://irs-refund-claim.net/apply",1
+"Your Amazon account has been locked due to suspicious activity. Verify your account: http://amazon-account-verify.ru/login",1
+"Action required: Your Dropbox files will be deleted in 24 hours. Renew your storage plan: http://dropbox-renew.xyz/plan",1
+"Dear user, your Wells Fargo online banking access has been suspended. Click here to reactivate: http://wellsfargo-secure-login.com/reactivate",1
+"You have a pending payment of $2,500 waiting. Claim it here immediately: http://pending-payment-claim.xyz/verify",1
+"SECURITY NOTICE: Login from new device detected. Your Apple ID was used to sign in on iPhone in China. Verify now: http://appleid-security-verify.net/confirm",1
+"Confirm your email address to avoid account suspension. Click the link to verify: http://confirm-email-account.xyz/verify",1
+"Your account login credentials have been compromised. Update your password immediately: http://secure-password-reset.info/update",1
+"IMPORTANT: Your domain will expire in 24 hours. Renew now to avoid losing your website: http://domain-renew-urgent.xyz/renew",1
+"Hi team, please find attached the quarterly project report. The meeting notes from Tuesday have been included. Let me know if you have any questions.",0
+"Good morning, I wanted to follow up on our discussion about the new product roadmap. Can we schedule a call this week to review the timeline?",0
+"Dear John, thank you for attending the conference yesterday. It was great meeting you. I have attached my business card details for future reference.",0
+"Please find enclosed the invoice for services rendered in July. Payment is due within 30 days. Please contact accounting if you have any questions.",0
+"Hi Sarah, the team meeting has been rescheduled to Thursday at 2pm. The agenda includes project updates and budget review. See you then.",0
+"Your GitHub pull request has been approved and merged into the main branch. The CI/CD pipeline completed successfully with all tests passing.",0
+"Newsletter: This month's software development digest includes articles on microservices architecture, DevOps best practices, and cloud security.",0
+"Your order has been shipped. Tracking number: 1Z999AA10123456784. Expected delivery: Monday. Visit ups.com to track your package.",0
+"Hi, I am writing to confirm your appointment on September 15th at 10:00 AM. Please bring a valid ID and arrive 10 minutes early.",0
+"The library book you reserved is now available for pickup. Please collect it within 7 days from the main branch during opening hours.",0
+"Reminder: Your dental appointment is tomorrow at 3:00 PM. Please call us 24 hours in advance if you need to reschedule.",0
+"Your password has been successfully updated. If you did not make this change, please contact our support team at support@company.com",0
+"Welcome to the team! Your onboarding documents are attached. Please review and sign by Friday. Looking forward to working with you.",0
+"The weekly status report for project Alpha is ready. Summary: 3 tasks completed, 2 in progress, 1 blocked. Full details in the attachment.",0
+"Hi, just a quick note to say the office will be closed on Monday for the public holiday. Normal operations resume Tuesday morning.",0
+"Your subscription renewal confirmation. Thank you for renewing your annual plan. Your next billing date is December 1st. Receipt attached.",0
+"Academic conference invitation: We would like to invite you to present your research at the Annual Data Science Symposium in Boston.",0
+"Your software license has been renewed successfully. License key attached. Contact licensing@software.com for any issues.",0
+"Team lunch is scheduled for Friday at noon. We will be going to the Italian restaurant on Main Street. Please RSVP by Thursday.",0
+"Monthly security bulletin from IT department. Please ensure your workstation software is updated. New patches available for Windows.",0
+"PHISHING DETECTED: Your account security is at risk. Verify now or face account closure: http://account-verify-now.xyz/login?token=abc123",1
+"Dear valued customer, your payment method has failed. Update your billing information to avoid service interruption: http://billing-update-secure.net",1
+"You have received a secure document. Login to view: http://docusign-secure-view.ru/document?id=9876",1
+"Your crypto wallet requires verification. Confirm your identity: http://crypto-wallet-verify.xyz/auth",1
+"Claim your lottery winnings of $50,000. You won! Enter details: http://lottery-winner.xyz/claim",1
+"Your package delivery failed. Reschedule here: http://fedex-delivery-reschedule.xyz/track?id=123456",1
+"Emergency: Your social security number has been compromised. Call now or click: http://ssa-alert-verify.net/secure",1
+"HR Notice: Salary increase approved. Login to view your new compensation package: http://hr-portal-salary.xyz/login",1
+"Your iCloud storage is full. Upgrade now to avoid data loss: http://icloud-storage-upgrade.xyz/plan",1
+"FINAL WARNING: Tax evasion investigation. Respond immediately: http://irs-investigation-response.xyz/case",1
+"Good afternoon, please review the attached contract for the software development project. We need your signature by end of week.",0
+"The Q3 financial results have been published. Please review the summary report attached. Board meeting to discuss results is next Tuesday.",0
+"Congratulations on your promotion! Please visit HR to complete the required paperwork. Your new role begins on the first of next month.",0
+"Your flight booking confirmation. Flight AA1234 on October 5th from JFK to LAX. Check-in opens 24 hours before departure.",0
+"The annual performance review cycle begins next month. Please schedule a meeting with your manager to discuss your goals.",0

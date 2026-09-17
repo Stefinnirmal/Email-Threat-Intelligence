@@ -1,0 +1,60 @@
+Return-Path: <security-noreply@paypal-secure-verify.net>
+Received: from mail.paypal-secure-verify.net (185.220.101.1)
+        by mx.victim-mail.com with ESMTP id x7si123456
+        for <victim@victim-mail.com>;
+        Mon, 25 Aug 2026 09:14:32 -0700 (PDT)
+Received: from webmail.paypal-secure-verify.net (103.251.167.10)
+        by mail.paypal-secure-verify.net with SMTP id a1bc234
+        Mon, 25 Aug 2026 09:14:10 -0700
+Received-SPF: fail (google.com: domain of security-noreply@paypal-secure-verify.net
+        does not designate 185.220.101.1 as permitted sender)
+        client-ip=185.220.101.1;
+Authentication-Results: mx.victim-mail.com;
+       spf=fail (sender IP is 185.220.101.1)
+         smtp.mailfrom=security-noreply@paypal-secure-verify.net;
+       dkim=fail header.i=@paypal-secure-verify.net
+         header.s=selector1;
+       dmarc=fail action=none header.from=paypal-secure-verify.net;
+From: "PayPal Security Team" <security-noreply@paypal-secure-verify.net>
+To: victim@victim-mail.com
+Reply-To: attacker-reply@suspiciousdomain.xyz
+Subject: URGENT: Your PayPal Account Has Been Suspended - Verify Immediately
+Date: Mon, 25 Aug 2026 09:14:00 -0700
+Message-ID: <20260825091400.ABC123@paypal-secure-verify.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+X-Mailer: PHPMailer 5.2.0
+X-Originating-IP: 185.220.101.1
+
+Dear PayPal Customer,
+
+!! URGENT SECURITY ALERT !!
+
+We have detected suspicious activity and unauthorized login attempts on your PayPal account.
+Your account has been SUSPENDED and your funds are at risk.
+
+You MUST verify your account within 24 hours or your account will be permanently closed
+and any pending balance will be forfeited.
+
+To restore access and secure your account, click the link below IMMEDIATELY:
+
+http://paypal-secure-verify.net/login?token=SECURE8842&user=verify&action=restore
+
+Or copy and paste this URL:
+http://paypal-secure-verify.net/account/restore/password/reset?session=ABC123XYZ&redirect=home
+
+If you do not verify within 24 hours:
+  - Your account will be permanently suspended
+  - All pending transactions will be cancelled
+  - Your funds may be held for up to 180 days
+
+For additional support contact: support@paypal-secure-verify.net
+
+WARNING: Do not ignore this email. This is your FINAL notice.
+
+The PayPal Security Team
+PayPal Inc. Security Department
+
+Reference: CASE-2026-08-SUSPICIOUS-994421
+Server: 185.220.101.1
+Support IP: 103.251.167.10
